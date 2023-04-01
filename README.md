@@ -1,5 +1,6 @@
 # BackendSpringbootNew
 This is simple backend springboot app of department with AWS MySQL RDS
+Now lets try to to CICD with jenkins
 ## Requirements
 1. Java 17
 2. Docker
